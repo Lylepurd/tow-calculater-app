@@ -1,0 +1,19 @@
+Breakdown: Caboolture Hospital
+Drop Off: Brisbane Isuzu
+Weight: 9
+Height: 2.5
+Length: 7
+
+
+Breakdown: Merri Concourse
+Drop Off: Australis Dr
+Weight: 50
+Height: 3.6
+Length: 19
+
+
+Breakdown: Taylor Rd
+Drop Off: Sci-Fleet Hino
+Weight: 20
+Height: 3.4
+Length: 12
